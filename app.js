@@ -1,3 +1,6 @@
+
+const dd = alert(window.screen.width)
+
 $("#target").click(function () {});
 $("#other").click(function () {
     $("#target").click();
