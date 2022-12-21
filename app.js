@@ -1,6 +1,6 @@
 
 const dd = alert(window.screen.width)
-const dd = alert(window.screen.height)
+const cc = alert(window.screen.height)
 
 $("#target").click(function () {});
 $("#other").click(function () {
